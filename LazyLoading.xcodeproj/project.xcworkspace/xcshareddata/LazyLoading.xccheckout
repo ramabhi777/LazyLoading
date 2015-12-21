@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45FD4382-38C5-43B5-9BF8-4F8A48AA2277</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LazyLoading</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++152</key>
+		<string>svn://cloud.innovationm.com/mnt/repos/arch-design-patterns/iOS/LazyLoadingImagesInTableView</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LazyLoading.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++152</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++152</key>
+		<string>svn://cloud.innovationm.com/mnt/repos/arch-design-patterns</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://cloud.innovationm.com/mnt/repos/arch-design-patterns/iOS/LazyLoadingImagesInTableView/LazyLoading.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++152</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6ccba97a-68f4-4956-9a49-e2bc8f4d1eac++152</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SessionProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
